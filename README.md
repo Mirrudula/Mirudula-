@@ -1,7 +1,8 @@
 # Mirudula-
 About Me
 
-👋 Hi there! Iam Mirudula, a UI/UX designer with a passion for creating intuitive and engaging user experiences. I specialize in designing user-centric interfaces that prioritize usability and accessibility, ensuring that every interaction is seamless and enjoyable.
+👋 Hi there! I am Mirudula, a UI/UX designer with a passion for creating intuitive and engaging user experiences. 
+I specialize in designing user-centric interfaces that prioritize usability and accessibility, ensuring that every interaction is seamless and enjoyable.
 
 Skills: Proficient in Photoshop, Figma, prototyping, creating design systems, design thinking, and Microsoft 365.
 
